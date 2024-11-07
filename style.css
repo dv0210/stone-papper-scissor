@@ -67,3 +67,16 @@ img {
 #userScore, #compScore {
     font-size: 4rem;
 }
+
+.result{
+    margin-top: 5rem;
+}
+
+#resultText{
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 2rem;
+    display: inline;
+    background-color: rgb(36, 33, 33);
+    color: white;
+}
